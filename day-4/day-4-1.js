@@ -41,6 +41,6 @@ const checkPassportValidity = (passportArr) => {
 };
 
 //console.log(inputFile);
-//console.log(passportArr);
+console.log(passportArr);
 console.log(checkPassportValidity(passportArr).length);
 //console.log(checkPassportValidity(passportArr)[10]);
