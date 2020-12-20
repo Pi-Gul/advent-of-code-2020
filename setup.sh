@@ -1,6 +1,6 @@
 #!/bin/bash
 
-dayNum="13"
+dayNum="14"
 dir="day-${dayNum}"
 file1="${dir}/${dir}-1.js"
 file2="${dir}/${dir}-2.js"
